@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# ana
 echo "Digite um número e descubra se ele é par ou ímpar: "
 read num
 
